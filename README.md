@@ -28,6 +28,11 @@
 **Below are screenshots showing how the frontend and backend are expected to look and function when everything is working correctly:**
 
 
+![alt text](screencapture-quickshow-sigma-roan-vercel-app-2025-07-04-07_02_38.png)
+
+
+
+
 <br /><hr /><br />
 
 **Admin Dashboard** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/admin)
