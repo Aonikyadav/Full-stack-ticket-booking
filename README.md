@@ -10,6 +10,20 @@
   
 **UI** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/)
 
+⚠️ Warning: Movies Section Not Displaying
+
+If the Movies section is not opening or is showing the message:
+“Movies not available”,
+this likely means that the API key has expired.
+The API key is time-limited and may need to be refreshed periodically.
+As a result, the MongoDB server cannot connect to the main server, preventing movies from being fetched or displayed.
+
+🔧 To resolve this issue, ensure the API key is valid and properly configured in your environment variables.
+
+📸 Reference Screenshots
+
+Below are screenshots showing how the frontend and backend are expected to look and function when everything is working correctly:
+
 ![alt text](screencapture-quickshow-sigma-roan-vercel-app-2025-07-04-07_02_38.png)
 
 <br /><hr /><br />
